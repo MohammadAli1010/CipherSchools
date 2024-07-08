@@ -1,0 +1,5 @@
+Learnt how to initialize a React App, some of the console commands used in the video are down below : 
+npx create-react-app First-app
+cd First-app
+npm start
+This will typically open our default web browser and navigate to http://localhost:3000 (the default port for Create React App) where we can see our React app running.
