@@ -1,0 +1,1 @@
+Lecture was about the folder structure in a react-app envirnment.
