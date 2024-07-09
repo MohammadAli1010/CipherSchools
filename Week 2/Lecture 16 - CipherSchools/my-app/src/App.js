@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+// 1. JSX looks and behaves like HTML.
+// 2. JSX can contain 2 things:
+//   a. Html tags
+//   b. React Compomnents
+// 3. JSX allows you to write JS code inside.
+
 
 function App() {
+  const name="Cipher School"
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1 
+      style={{
+        color:"red",
+        textAlign:"center"
+      }}
+      >Hello From {name}</h1>
     </div>
   );
 }
