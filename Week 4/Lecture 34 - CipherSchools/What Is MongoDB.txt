@@ -1,0 +1,3 @@
+Lecture was about MongoDB
+
+MongoDB is a popular NoSQL database known for its flexibility and scalability. Unlike relational databases that use rigid tables, MongoDB stores data in JSON-like documents, allowing for dynamic schemas and easy adaptation to evolving data. This document-oriented approach, coupled with horizontal scaling through sharding, makes MongoDB a strong choice for web applications, mobile backends, real-time analytics, and content management systems that require high performance and the ability to handle large volumes of diverse data.
