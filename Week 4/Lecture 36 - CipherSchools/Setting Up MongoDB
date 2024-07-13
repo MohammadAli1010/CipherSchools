@@ -1,0 +1,6 @@
+Lecture was about how to set-up MongoDB
+MongoDB Atlas is a cloud-based version of MongoDB that is easy to set up and use. There is a free tier available, which is a good option for getting started. Here are the steps to set up MongoDB Atlas:
+
+Create a free account on the MongoDB Atlas website [mongodb atlas free tier].
+Create a new cluster and choose your desired cloud provider and region.
+Once your cluster is created, you will be provided with connection instructions that you can use to connect to your MongoDB database from your applications.
