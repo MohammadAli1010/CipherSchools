@@ -1,0 +1,3 @@
+Lecture was about JWT.
+
+In the world of web applications, secure communication is key. JSON Web Tokens, or JWTs, offer a compact and elegant solution. JWTs are a standardized way to transmit information between parties as a secure, self-contained unit. Imagine a JWT as a signed note containing claims about a user or data. This note can be verified by the recipient, ensuring its authenticity and integrity.
